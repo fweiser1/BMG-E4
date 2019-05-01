@@ -172,3 +172,4 @@ INSERT INTO `auteur` (`id_auteur`, `nom_auteur`, `prenom_auteur`, `alias`, `note
 (127, 'Merle', 'Robert', NULL, NULL),
 (128, 'Faulkner', 'William', NULL, NULL),
 (129, 'Rostand', 'Edmond', NULL, NULL);
+COMMIT;
