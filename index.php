@@ -1,6 +1,6 @@
 <?php
     /** 
-     * Page d'accueil de l'application BMG-E4
+     * Page d'accueil de l'application BMG-E4-Epreuve
 
      * Point d'entrée unique de l'application
      * @author DORNIER Baptiste et WEISER Florian
