@@ -1,5 +1,5 @@
 <?php
-    /**
+    /** 
      * Page d'accueil de l'application BMG
 
      * Point d'entrée unique de l'application
