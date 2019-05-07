@@ -1,6 +1,6 @@
 <?php
     /** 
-     * Page d'accueil de l'application BMG
+     * Page d'accueil de l'application BMGE4
 
      * Point d'entrée unique de l'application
      * @author DORNIER Baptiste et WEISER Florian
